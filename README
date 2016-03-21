@@ -1,0 +1,3 @@
+g++ -c QuestionA.cpp
+g++ -c main.cpp
+g++ -o QuestionA main.o QuestionA.o
